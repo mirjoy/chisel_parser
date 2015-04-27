@@ -1,4 +1,4 @@
-chisel_parser
+Chisel Parser
 =============
 
-Converts Markdown to HTML
+Created a parser that converts Markdown to HTML, primarily through regexp.
